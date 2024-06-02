@@ -1,2 +1,2 @@
-# Hotel_management_system
-website for hotel management system
+# Hotel-management-system
+Hotel Website for Management
